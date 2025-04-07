@@ -1,4 +1,4 @@
-This repo contains a google colab notebook that contains an LLM that
+This repo contains a google colab notebook that contains a LLM that
 can translate user input into any language. If you choose to clone this,
 you will have to upload your own LANGSMITH API KEY and your own OpenAPI/LLM 
 provider key.
